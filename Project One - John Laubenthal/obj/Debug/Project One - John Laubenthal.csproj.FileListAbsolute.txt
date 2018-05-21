@@ -1,0 +1,7 @@
+C:\Users\WeCanCodeIT\source\repos\Project One - John Laubenthal\Project One - John Laubenthal\obj\Debug\Project One - John Laubenthal.csprojAssemblyReference.cache
+C:\Users\WeCanCodeIT\source\repos\Project One - John Laubenthal\Project One - John Laubenthal\obj\Debug\Project One - John Laubenthal.csproj.CoreCompileInputs.cache
+C:\Users\WeCanCodeIT\source\repos\Project One - John Laubenthal\Project One - John Laubenthal\bin\Debug\Project One - John Laubenthal.exe.config
+C:\Users\WeCanCodeIT\source\repos\Project One - John Laubenthal\Project One - John Laubenthal\bin\Debug\Project One - John Laubenthal.exe
+C:\Users\WeCanCodeIT\source\repos\Project One - John Laubenthal\Project One - John Laubenthal\bin\Debug\Project One - John Laubenthal.pdb
+C:\Users\WeCanCodeIT\source\repos\Project One - John Laubenthal\Project One - John Laubenthal\obj\Debug\Project One - John Laubenthal.exe
+C:\Users\WeCanCodeIT\source\repos\Project One - John Laubenthal\Project One - John Laubenthal\obj\Debug\Project One - John Laubenthal.pdb
